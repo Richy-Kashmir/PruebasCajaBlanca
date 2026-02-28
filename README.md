@@ -13,6 +13,18 @@
 
 
 -------------------------------------------------------------------------------------------------------------
+# Descripción del Proyecto
+Viajero Galáctico es un juego en Java donde avanzas por un tablero del 1 al 42 intentando llegar exactamente a la casilla final. La única trampa del camino es la casilla 33, que funciona como un agujero negro y termina la partida en el acto. La experiencia mezcla azar y decisiones rápidas en un tono ligero de aventura espacial.
+
+**Tecnologías Utilizadas**
+° Eclipse (Java)
+° Drawio (Diagrama)
+° Canva (PDF de toda la infromación)
+
+**Deploy / Cómo Ejecutar el Proyecto**
+Como es un programa Java de consola simple, el "deploy" consiste en compilar y ejecutar el archivo .java en cualquier máquina con un JDK instalado
+
+-------------------------------------------------------------------------------------------------------------
 
 **Diagrama (Esta dentro del PDF)**
 
