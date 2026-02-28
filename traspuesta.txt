@@ -1,0 +1,7 @@
+Matriz original:
+5 3 
+7 9 
+
+Matriz traspuesta:
+5 7 
+3 9 
